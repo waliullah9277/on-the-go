@@ -1,0 +1,33 @@
+.country{
+    margin: 10px;
+    border: 2px solid purple;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.country img{
+    width: 150px;
+}
+
+.visited{
+    width: 250px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+
+.country-visited{
+    background-color: lightgreen;
+}
+
+.country-visited button {
+    background-color: rgb(50, 31, 224);
+}
+
+.country-visited h3 {
+    color: rgb(50, 31, 224);
+}
